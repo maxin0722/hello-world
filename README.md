@@ -1,2 +1,3 @@
 # hello-world
-familiar with process
+hi humans;
+edit readme so i can change the process
